@@ -5,12 +5,9 @@
 - 🌖  I expect to study abroad in the next three years
 - 🌕  You can invite me to translate some open source projects.
 - ✉️  vermilionAnd@163.com  /  vermilionAnd@gmail.com
-- 
-<img src="./sicp.png" alt='sicp' width='30%' style="transform:rotate(45deg)"  >
 
-[![Zhuzilv's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhuzilv&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="./sicp.png" alt='sicp' width='30%' style="transform:rotate(45deg); " >
 
-<br/>
 
   ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
   ![](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&labelColor=fff&logoColor=blue)
