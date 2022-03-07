@@ -7,9 +7,7 @@
 - 🌕  You can invite me to translate some open source projects.
 - ✉️  vermilionAnd@163.com  /  vermilionAnd@gmail.com
   
-<img src="./images/zico&iu.jpg" alt='iu&zico' width='100%'>
-<!-- <img src="./images/xiaowang.jpg" alt='xiaowang' width='100%'> -->
-<!-- <img src="./images/rainbowCat.gif" alt='rainbowCat' width='100%'> -->
+<img src="./sicp.png" alt='sicp' width='100%'>
 
 [![Zhuzilv's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhuzilv&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
