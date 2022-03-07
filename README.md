@@ -6,13 +6,7 @@
 - 🌕  You can invite me to translate some open source projects.
 - ✉️  vermilionAnd@163.com  /  vermilionAnd@gmail.com
 <img src="./sicp.png" alt='sicp' width='30%' 
-style=" height: 100px ;
-    position: absolute ;
-    top: 215px ;
-    border-radius: 90px ;
-    z-index: 1000000 ;
-    left: -114px ;
-    width: 100px " >
+style="transform:rotate(666turn) ; transition: all 59s cubic-bezier(.34,0,.84,1) 1s"  >
 
 [![Zhuzilv's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhuzilv&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
