@@ -4,7 +4,7 @@
 - 🌓  When you see this news, maybe I'm still working overtime.
 - 🌖  I expect to study abroad in the next three years
 - 🌕  You can invite me to translate some open source projects.
-- ✉️  vermilionAnd@163.com  /  vermilionAnd@gmail.com
+- ✉️   vermilionAnd@gmail.com
 
   <img src="https://mitpress.mit.edu/sites/default/files/sicp/graphics/main-banner.gif" alt='sicp' >
 
